@@ -9,7 +9,7 @@ $make
 ```
 **Windows**
 
-Необхідно встановити **MinGW** (рекомендую використовувати дистрибутив [w64devkit](https://github.com/skeeto/w64devkit))
+Необхідно встановити **MinGW** (рекомендую використовувати дистрибутив [w64devkit](https://github.com/skeeto/w64devkit)).
 
 ```
 $make win
@@ -19,3 +19,7 @@ $make win
 **Windows**
 
 ![Windows](https://github.com/OlegKotyuk/SimpleHTTPServer/blob/main/screenshots/screenwin.png)
+
+**Linux**
+
+![Linux](https://github.com/OlegKotyuk/SimpleHTTPServer/blob/main/screenshots/screenlinux.png)
